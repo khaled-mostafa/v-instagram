@@ -1,6 +1,6 @@
 # V-Instagram
 
-This app was made with Vue JS framework to understand and show power of Vue and Its tools on SPA. You can see demo with link that is below.
+This app was made with Vue JS framework for training, understand and show power of Vue and Its tools on SPA. You can see demo with link that is below.
 
 All of data in the app was provided with The Movie DB database using Its Restful API via JS SDK. You can access both SDK and API documentation [here](https://github.com/cavestri/themoviedb-javascript-library) and [here](https://www.themoviedb.org/documentation/api)
 
