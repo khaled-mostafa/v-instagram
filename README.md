@@ -1,4 +1,4 @@
-# Vue Instagram
+# V-Instagram
 
 This app was made with Vue JS framework to understand and show power of Vue and Its tools on SPA. You can see demo with link that is below.
 
